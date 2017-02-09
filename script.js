@@ -1,1 +1,3 @@
 //WHOA!!!!! NO WAY!!!!!! JAVASCITP!!!!!!!!!!!!! SPELLED SCRIPT WRONG!!!!
+
+// IDK WHY WERE YELLING!!!!!!
